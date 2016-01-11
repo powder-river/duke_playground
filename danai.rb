@@ -1,1 +1,1 @@
-puts "Go Blue Devils"
+puts "Go Tar Heels"
