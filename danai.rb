@@ -1,1 +1,2 @@
-puts "Go Tar Heels"
+duke = "Blue Devils"
+unc = "Tarheels"
