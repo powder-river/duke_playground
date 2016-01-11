@@ -1,2 +1,2 @@
 duke = "Blue Devils"
-unc = "Tarheels"
+unc = "Tigers"
